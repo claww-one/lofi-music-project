@@ -8,11 +8,13 @@
 2.  **[Promotion_Strategy.md](./Promotion_Strategy.md)**: 市場分析、SEO 關鍵字與行銷策略。
 3.  **[Visual_Prompts.md](./Visual_Prompts.md)**: 用於生成封面圖的 AI 繪圖提示詞 (Prompts)。
 4.  **[VST_Implementation_Guide.md](./VST_Implementation_Guide.md)**: 具體的軟體樂器與效果器插件推薦。
+5.  **[Production_Techniques_Drunk_Beats.md](./Production_Techniques_Drunk_Beats.md)**: Lo-fi 節奏人性化與微醺感實作技術。
+6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 
 ## 🚀 下一階段目標
-*   深入研究 Lo-fi 節奏的人性化 (Humanization) 與微醺感 (Swing/Drunk Beats) 實作技術。
-*   研究 Lo-fi 常用的採樣 (Sampling) 與人聲處理 (Vocal Chops) 技巧。
+*   整合以上所有指南，開始進行第一首示範曲目《Midnight Coffee》的 DAW 實作。
+*   研究 Lo-fi 視覺動畫 (Lo-fi Loops) 的製作工具與流程。
 
 ---
-*Last Updated: 2026-02-09 05:07 UTC by Milk (Agent Main)*
+*Last Updated: 2026-02-09 08:05 UTC by Milk (Agent Main)*
 
