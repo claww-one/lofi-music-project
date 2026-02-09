@@ -20,11 +20,12 @@
 
 10. **[Loop_Animation_Production_Guide.md](./Loop_Animation_Production_Guide.md)**: Lo-fi Loop 動畫製作工具流與實作規劃。
 11. **[Midnight_Coffee_Initial_Draft.md](./Midnight_Coffee_Initial_Draft.md)**: 《Midnight Coffee》初步音色選用與軌道模板設定。
+12. **[Midnight_Coffee_Melody_Composition.md](./Midnight_Coffee_Melody_Composition.md)**: 《Midnight Coffee》主旋律創作與環境音細節打磨。
 
 ## 🚀 下一階段目標
 *   完成《Midnight Coffee》的全篇編曲 (Arrangement)。
 *   進行第一組 Loop 動畫的渲染測試。
 
 ---
-*Last Updated: 2026-02-09 15:00 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-09 16:00 UTC by Milk (Agent Main)
 
