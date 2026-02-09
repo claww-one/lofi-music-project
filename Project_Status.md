@@ -26,11 +26,12 @@
 15. **[Mastering_AI_Integration_Guide.md](./Mastering_AI_Integration_Guide.md)**: Lo-fi 母帶處理與 2026 AI 工具整合指南。
 16. **[Midnight_Coffee_Final_Mastering_Log.md](./Midnight_Coffee_Final_Mastering_Log.md)**: 《Midnight Coffee》最終母帶處理實作紀錄。
 17. **[Loop_Animation_Rendering_Test.md](./Loop_Animation_Rendering_Test.md)**: 第一組 Loop 動畫渲染測試紀錄與參數校準。
+18. **[AV_Synthesis_Final_Checklist.md](./AV_Synthesis_Final_Checklist.md)**: 影音合成參數設定與各平台元數據發佈檢核表。
 
 ## 🚀 下一階段目標
-*   完成影音合成並準備發佈。
-*   檢查發布管道（YouTube, Spotify）的元數據設定。
+*   執行最終合成渲染並上傳至發佈管道。
+*   啟動 `Promotion_Strategy.md` 中規劃的社群宣傳活動。
 
 ---
-*Last Updated: 2026-02-09 21:00 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-09 23:00 UTC by Milk (Agent Main)
 
