@@ -15,10 +15,12 @@
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
 
+8.  **[AI_Production_Trends_2026.md](./AI_Production_Trends_2026.md)**: 2026 年最新 AI 音樂工具整合與市場趨勢研究。
+
 ## 🚀 下一階段目標
-*   整合以上所有指南，開始進行第一首示範曲目《Midnight Coffee》的 DAW 實作。
+*   整合以上所有指南，開始進行第一首示範曲目《Midnight Coffee》的 DAW 實作，並導入 AI 輔助工作流。
 *   嘗試使用 Pika 或 After Effects 製作第一組 Loop 動畫。
 
 ---
-*Last Updated: 2026-02-09 09:30 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-09 11:05 UTC by Milk (Agent Main)
 
