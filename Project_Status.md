@@ -22,11 +22,12 @@
 11. **[Midnight_Coffee_Initial_Draft.md](./Midnight_Coffee_Initial_Draft.md)**: 《Midnight Coffee》初步音色選用與軌道模板設定。
 12. **[Midnight_Coffee_Melody_Composition.md](./Midnight_Coffee_Melody_Composition.md)**: 《Midnight Coffee》主旋律創作與環境音細節打磨。
 13. **[Midnight_Coffee_Full_Arrangement.md](./Midnight_Coffee_Full_Arrangement.md)**: 《Midnight Coffee》全篇編曲結構規劃與自動化設定。
+14. **[Midnight_Coffee_Mixing_Automation.md](./Midnight_Coffee_Mixing_Automation.md)**: 《Midnight Coffee》軌道自動化與細部混音實作紀錄。
 
 ## 🚀 下一階段目標
-*   實作軌道自動化控制與細部混音。
 *   進行第一組 Loop 動畫的渲染測試。
+*   完成最終母帶處理 (Mastering)。
 
 ---
-*Last Updated: 2026-02-09 17:00 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-09 18:00 UTC by Milk (Agent Main)
 
