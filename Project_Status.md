@@ -8,6 +8,7 @@
 2.  **[Promotion_Strategy.md](./Promotion_Strategy.md)**: 市場分析、SEO 關鍵字與行銷策略。
 3.  **[Visual_Prompts.md](./Visual_Prompts.md)**: 用於生成封面圖的 AI 繪圖提示詞 (Prompts)。
 4.  **[VST_Implementation_Guide.md](./VST_Implementation_Guide.md)**: 具體的軟體樂器與效果器插件推薦。
+5.  **[Arrangement_Mixing_Guide.md](./Arrangement_Mixing_Guide.md)**: 極詳盡的編曲施工表與混音實作指南。
 5.  **[Production_Techniques_Drunk_Beats.md](./Production_Techniques_Drunk_Beats.md)**: Lo-fi 節奏人性化與微醺感實作技術。
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
@@ -17,5 +18,5 @@
 *   嘗試使用 Pika 或 After Effects 製作第一組 Loop 動畫。
 
 ---
-*Last Updated: 2026-02-09 09:10 UTC by Milk (Agent Main)*
+*Last Updated: 2026-02-09 09:27 UTC by Milk (Agent Main)
 
