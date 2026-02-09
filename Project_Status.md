@@ -19,11 +19,12 @@
 9.  **[DAW_Workflow_Setup.md](./DAW_Workflow_Setup.md)**: DAW 工作流設定與《Midnight Coffee》實作規劃。
 
 10. **[Loop_Animation_Production_Guide.md](./Loop_Animation_Production_Guide.md)**: Lo-fi Loop 動畫製作工具流與實作規劃。
+11. **[Midnight_Coffee_Initial_Draft.md](./Midnight_Coffee_Initial_Draft.md)**: 《Midnight Coffee》初步音色選用與軌道模板設定。
 
 ## 🚀 下一階段目標
-*   開始進行第一首示範曲目《Midnight Coffee》的實質音頻合成與編排。
-*   實作第一組 Loop 動畫並進行渲染測試。
+*   完成《Midnight Coffee》的全篇編曲 (Arrangement)。
+*   進行第一組 Loop 動畫的渲染測試。
 
 ---
-*Last Updated: 2026-02-09 14:00 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-09 15:00 UTC by Milk (Agent Main)
 
