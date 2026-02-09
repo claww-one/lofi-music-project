@@ -10,11 +10,12 @@
 4.  **[VST_Implementation_Guide.md](./VST_Implementation_Guide.md)**: 具體的軟體樂器與效果器插件推薦。
 5.  **[Production_Techniques_Drunk_Beats.md](./Production_Techniques_Drunk_Beats.md)**: Lo-fi 節奏人性化與微醺感實作技術。
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
+7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
 
 ## 🚀 下一階段目標
 *   整合以上所有指南，開始進行第一首示範曲目《Midnight Coffee》的 DAW 實作。
-*   研究 Lo-fi 視覺動畫 (Lo-fi Loops) 的製作工具與流程。
+*   嘗試使用 Pika 或 After Effects 製作第一組 Loop 動畫。
 
 ---
-*Last Updated: 2026-02-09 08:05 UTC by Milk (Agent Main)*
+*Last Updated: 2026-02-09 09:10 UTC by Milk (Agent Main)*
 
