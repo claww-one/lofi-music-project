@@ -10,6 +10,7 @@
 4.  **[VST_Implementation_Guide.md](./VST_Implementation_Guide.md)**: 具體的軟體樂器與效果器插件推薦。
 5.  **[Arrangement_Mixing_Guide.md](./Arrangement_Mixing_Guide.md)**: 極詳盡的編曲施工表與混音實作指南。
 6.  **[Marketing_Promotion_Guide.md](./Marketing_Promotion_Guide.md)**: 播放清單投稿、Pitch 範本與社群短影音策略。
+7.  **[Branding_Strategy_Proposal.md](./Branding_Strategy_Proposal.md)**: 24/7 電台架設、社群經營與品牌 IP 發展戰略。
 5.  **[Production_Techniques_Drunk_Beats.md](./Production_Techniques_Drunk_Beats.md)**: Lo-fi 節奏人性化與微醺感實作技術。
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
@@ -19,5 +20,5 @@
 *   嘗試使用 Pika 或 After Effects 製作第一組 Loop 動畫。
 
 ---
-*Last Updated: 2026-02-09 09:29 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-09 09:30 UTC by Milk (Agent Main)
 
