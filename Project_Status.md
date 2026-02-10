@@ -13,6 +13,7 @@
 7.  **[Branding_Strategy_Proposal.md](./Branding_Strategy_Proposal.md)**: 24/7 電台架設、社群經營與品牌 IP 發展戰略。
 8.  **[DAW_Implementation_Manual.md](./DAW_Implementation_Manual.md)**: 直接對應 DAW 操作的 MIDI 組成音與 VST 參數手冊。
 9.  **[AI_Animation_Steam_Guide.md](./AI_Animation_Steam_Guide.md)**: Pika / Runway 咖啡蒸氣動態化與無縫循環製作指南。
+10. **[n8n_Automation_Strategy.md](./n8n_Automation_Strategy.md)**: n8n 自動化整合方案與連線測試紀錄。
 5.  **[Production_Techniques_Drunk_Beats.md](./Production_Techniques_Drunk_Beats.md)**: Lo-fi 節奏人性化與微醺感實作技術。
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
@@ -37,5 +38,5 @@
 *   啟動 `Promotion_Strategy.md` 中規劃的社群宣傳活動。
 
 ---
-*Last Updated: 2026-02-10 01:36 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-10 03:27 UTC by Milk (Agent Main)
 
