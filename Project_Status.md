@@ -4,7 +4,8 @@
 本專案旨在研究並實作高品質的 Lo-fi / Coffee Music，目前已完成基礎研究、創作規劃與工具篩選。
 
 ## 📅 階段性成果清單
-1.  **[Midnight_Coffee_Blueprint.md](./Midnight_Coffee_Blueprint.md)**: 詳細的曲目結構與和弦規劃。
+1.  **[Production_Trends_Update_Feb2026.md](./Production_Trends_Update_Feb2026.md)**: 2026 年 2 月最新 Lo-fi 製作趨勢研究（AI 整合與混合樂風）。
+2.  **[Midnight_Coffee_Blueprint.md](./Midnight_Coffee_Blueprint.md)**: 詳細的曲目結構與和弦規劃。
 2.  **[Promotion_Strategy.md](./Promotion_Strategy.md)**: 市場分析、SEO 關鍵字與行銷策略。
 3.  **[Visual_Prompts.md](./Visual_Prompts.md)**: 用於生成封面圖的 AI 繪圖提示詞 (Prompts)。
 4.  **[VST_Implementation_Guide.md](./VST_Implementation_Guide.md)**: 具體的軟體樂器與效果器插件推薦。
@@ -40,5 +41,5 @@
 *   啟動 `Promotion_Strategy.md` 中規劃的社群宣傳活動。
 
 ---
-*Last Updated: 2026-02-10 03:47 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-10 04:06 UTC by Milk (Agent Main)
 
