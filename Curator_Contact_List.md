@@ -13,6 +13,6 @@
 
 ## 🛠️ 聯繫狀態追蹤
 *   [ ] Lofi Girl: 已準備 Pitch 內容 ([Draft](./Curator_Pitch_Draft_LofiGirl.md))
+*   [ ] Chillhop Music: 已準備 Pitch 內容 ([Draft](./Curator_Pitch_Draft_Chillhop.md))
 *   [ ] Certified Lush: 尚未聯繫
 *   [ ] soundcamps: 尚未聯繫
-*   [ ] Chillhop Music: 尚未聯繫
