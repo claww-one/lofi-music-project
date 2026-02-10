@@ -4,7 +4,9 @@
 本專案已完成《Midnight Coffee》的創作、混音、母帶處理、影音合成及元數據核對。目前已正式啟動全平台分發與社群推廣流程。
 
 ## 📅 階段性成果清單
-1.  **[progress_reports/2026-02-10_1800_report.md](./progress_reports/2026-02-10_1800_report.md)**: 18:00 UTC 進度報告：啟動社群媒體宣傳第一階段並優化自動化工作流。
+1.  **[progress_reports/2026-02-10_1900_report.md](./progress_reports/2026-02-10_1900_report.md)**: 19:00 UTC 進度報告：啟動 Discord 預熱活動並追蹤策展人回覆。
+2.  **[Discord_Fan_Engagement.md](./Discord_Fan_Engagement.md)**: Discord 粉絲首映預熱活動紀錄與初步數據。
+3.  **[progress_reports/2026-02-10_1800_report.md](./progress_reports/2026-02-10_1800_report.md)**: 18:00 UTC 進度報告：啟動社群媒體宣傳第一階段並優化自動化工作流。
 2.  **[YouTube_Community_Post.md](./YouTube_Community_Post.md)**: 擬定 YouTube 社群互動貼文與首映預熱文案。
 3.  **[progress_reports/2026-02-10_1700_report.md](./progress_reports/2026-02-10_1700_report.md)**: 17:00 UTC 進度報告：完成 TikTok 腳本設計與啟動首批策展人 Pitch。
 2.  **[TikTok_Teaser_Script.md](./TikTok_Teaser_Script.md)**: 專為 TikTok/Reels 設計的 15 秒沉浸式短影音分鏡腳本。
