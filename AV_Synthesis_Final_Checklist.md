@@ -27,8 +27,8 @@
 ## ✅ 待執行項目
 1. [ ] 執行長時 (1 hour+) 影音循環合成。
 2. [ ] 進行最終影片畫質與音質抽查。
-3. [ ] 撰寫社群媒體推廣貼文 (Twitter/Instagram)。
+3. [x] 撰寫社群媒體推廣貼文 (Twitter/Instagram)。
 4. [ ] 檢查版權資訊 (Credit attribution)。
 
 ---
-*Last Updated: 2026-02-09 23:00 UTC*
+*Last Updated: 2026-02-10 01:00 UTC*
