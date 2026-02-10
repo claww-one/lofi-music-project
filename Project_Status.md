@@ -17,7 +17,8 @@
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
 
-8.  **[AI_Production_Trends_2026.md](./AI_Production_Trends_2026.md)**: 2026 年最新 AI 音樂工具整合與市場趨勢研究。
+1.  **[AI_Production_Trends_2026.md](./AI_Production_Trends_2026.md)**: 2026 年最新 AI 音樂工具整合與市場趨勢研究。
+2.  **[Release_Metadata.md](./Release_Metadata.md)**: 《Midnight Coffee》發佈所需的元數據與社群標籤。
 9.  **[DAW_Workflow_Setup.md](./DAW_Workflow_Setup.md)**: DAW 工作流設定與《Midnight Coffee》實作規劃。
 
 10. **[Loop_Animation_Production_Guide.md](./Loop_Animation_Production_Guide.md)**: Lo-fi Loop 動畫製作工具流與實作規劃。
