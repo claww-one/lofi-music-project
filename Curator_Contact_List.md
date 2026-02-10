@@ -12,7 +12,7 @@
 | YouTube | Steezas | 頻道 | [Submit to Steezas](mailto:submissions@steezas.com) | 適合偏 Ambient 的作品 |
 
 ## 🛠️ 聯繫狀態追蹤
-*   [ ] Lofi Girl: 尚未聯繫
+*   [ ] Lofi Girl: 已準備 Pitch 內容 ([Draft](./Curator_Pitch_Draft_LofiGirl.md))
 *   [ ] Certified Lush: 尚未聯繫
 *   [ ] soundcamps: 尚未聯繫
 *   [ ] Chillhop Music: 尚未聯繫
