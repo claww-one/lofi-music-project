@@ -15,6 +15,7 @@
 9.  **[AI_Animation_Steam_Guide.md](./AI_Animation_Steam_Guide.md)**: Pika / Runway 咖啡蒸氣動態化與無縫循環製作指南。
 10. **[n8n_Automation_Strategy.md](./n8n_Automation_Strategy.md)**: n8n 自動化整合方案與連線測試紀錄。
 11. **[n8n_AutoPost_Workflow.md](./n8n_AutoPost_Workflow.md)**: GitHub ➔ AI ➔ Discord 自動發文工作流 JSON 藍圖。
+12. **[n8n_AutoPost_Workflow_Gemini.md](./n8n_AutoPost_Workflow_Gemini.md)**: 已升級的 Google Gemini 版自動發文藍圖與設定指南。
 5.  **[Production_Techniques_Drunk_Beats.md](./Production_Techniques_Drunk_Beats.md)**: Lo-fi 節奏人性化與微醺感實作技術。
 6.  **[Sampling_Vocal_Processing.md](./Sampling_Vocal_Processing.md)**: 採樣篩選與人聲處理指南。
 7.  **[Lo-fi_Visual_Loop_Tools.md](./Lo-fi_Visual_Loop_Tools.md)**: Lo-fi 視覺動畫製作工具研究與推薦。
@@ -39,5 +40,5 @@
 *   啟動 `Promotion_Strategy.md` 中規劃的社群宣傳活動。
 
 ---
-*Last Updated: 2026-02-10 03:31 UTC by Milk (Agent Main)
+*Last Updated: 2026-02-10 03:47 UTC by Milk (Agent Main)
 
