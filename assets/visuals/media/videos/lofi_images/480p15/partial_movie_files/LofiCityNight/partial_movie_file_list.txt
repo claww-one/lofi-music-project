@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/node/.openclaw/workspace/lofi-music-project/assets/visuals/media/videos/lofi_images/480p15/partial_movie_files/LofiCityNight/3364075960_2567065385_1155028329.mp4'
